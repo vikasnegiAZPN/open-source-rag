@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+.venv
+*.so
+build/
+dist/
+
+# Data & Database
+chroma_db/
+knowledge_base/
+*.xlsx
+*.xls
+*.csv
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.log
+
+# Node/Frontend
+node_modules/
+frontend/build/
+frontend/dist/
+.DS_Store
